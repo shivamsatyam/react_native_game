@@ -1,0 +1,14 @@
+{
+   "expo": {
+    "name": "shivam game",
+    "icon": "./images/icon.png",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+	"orientation":"portrait",
+	"sdkVersion":"41.0.0",
+    "android": {
+      "package": "com.shivam.gameApp",
+      "versionCode": 1
+    }
+   }
+ }
